@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nicolas Dominici
-<img src="https://uptecacademy.com/wp-content/uploads/2025/02/full-stack-web-development-scaled.jpg" alt="Background image of code and web development" />
+<img src="https://i.ibb.co/STSXpSr/85090c7f-494f-4a9d-9b4f-7103f2319e8e-Social-Media.avif" alt="Background image of code and web development" />
 
 ## 👨‍💻 About Me
 
