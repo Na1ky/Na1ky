@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nicolas Dominici
-<img src="https://i.ibb.co/STSXpSr/85090c7f-494f-4a9d-9b4f-7103f2319e8e-Social-Media.avif" alt="Background image of code and web development" />
+<img width="1820" height="842" alt="image" src="https://github.com/user-attachments/assets/a7223028-f037-4988-b2a4-8a108015836c" />
 
 ## 👨‍💻 About Me
 
