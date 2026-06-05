@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nicolas Dominici
-<img width="1820" height="842" alt="image" src="https://github.com/user-attachments/assets/a7223028-f037-4988-b2a4-8a108015836c" />
+<img width="1912" height="952" alt="image" src="https://github.com/user-attachments/assets/d0609be0-394d-417d-b13c-46cc920dab99" />
 
 ## 👨‍💻 About Me
 
