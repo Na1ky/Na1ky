@@ -1,7 +1,7 @@
-# 👋 Ciao, sono Nicolas Dominici
+# 👋 Hello, I'm Nicolas Dominici
 
 <p align="center">
-  <img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/d54acae9-8372-4745-8f6f-892ac9bb7972" />
+  <img width="1536" height="1024" alt="cover" src="https://github.com/user-attachments/assets/d3b05ea5-cf85-4761-943f-e39c2d228b72" />
 </p>
 
 ## 👨‍💻 About Me
