@@ -1,29 +1,75 @@
-# 👋 Hello, I'm Nicolas Dominici
+<h1 align="center">Hey, sono Nicolas 👋</h1>
+<p align="center">Full-stack & Software developer · Diplomato in Informatica e Telecomunicazioni</p>
 
 <p align="center">
-  <img width="1536" height="1024" alt="cover" src="https://github.com/user-attachments/assets/d3b05ea5-cf85-4761-943f-e39c2d228b72" />
+  <img width="1418" height="757" alt="image" src="https://github.com/user-attachments/assets/9aa6c794-d703-46bf-a025-dc177ff4cf7e" />
+
 </p>
 
-## 👨‍💻 About Me
-
-I'm a **Computer Science student** and a **full-stack developer** with a passion for turning ideas into real projects. I love learning new technologies, building useful applications, and experimenting with creative solutions.
-
-* 🚀 Passionate about web development, OOP, and software architecture.
-* 💻 Full-stack enthusiast (frontend & backend).
-* 🛠️ Constantly exploring new programming languages and frameworks.
-* 🔧 In my free time: personal projects, automation scripts, and side projects.
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://discord.gg/Nf5YPT2cVP" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
-  <a href="https://instagram.com/_nicolas.dominici_" target="_blank"><img src="https://img.shields.io/badge/Instagram-C13584?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
-  <a href="mailto:nicolasdominici.lav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+<p align="center">
+  <a href="https://nicolas-dominici.it" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nicolas--dominici.it-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nicolas-dominici-6981153a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nicolasdominici.lav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.gg/Nf5YPT2cVP" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/_nicolas.dominici_" target="_blank"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-## 💻 My Tech Stack
+### 🧭 About me
+
+- 🎓 Diplomato in Informatica all'IIS G. Vallauri di Fossano
+- 💻 Full-stack & Software Developer
+- 🔐 Appassionato di cybersicurezza
+- 🌐 Proggettazione e amministrazione di reti
+- 🧠 Curioso per natura — sempre in esplorazione di nuovi linguaggi e framework
+
+---
+
+### 💼 Progetti in evidenza
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧭 [SmartFare](https://github.com/Na1ky/SmartFare)**
+Web app che genera itinerari di viaggio personalizzati usando l'AI.
+
+`Angular` `Node.js` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 [Portfolio](https://github.com/Na1ky/Portfolio)**
+Il mio sito personale full-stack: SPA + backend REST custom su MongoDB Atlas.
+
+`Angular 21` `TypeScript` `Node.js / Express` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚔️ [BladeVerse Armory](https://github.com/Na1ky/BladeVerse-Armory)**
+Gestionale per un negozio fantasy (admin + commesso), progetto scolastico con UI dark-fantasy.
+
+`C#` `.NET Desktop` `SQL Server`
+
+</td>
+<td width="50%" valign="top">
+  
+**📅 [Booking-Calendar](https://github.com/Na1ky/Booking-Calendar)**
+Gestionale di prenotazioni per strutture ricettive (B&B/casa vacanze), con calendario, calcolo prezzi, export Word e sync su cloud.
+ 
+`C#` `.NET / WinForms` `MongoDB`
+ 
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -39,23 +85,29 @@ I'm a **Computer Science student** and a **full-stack developer** with a passion
 
 ---
 
-## 📊 My GitHub Stats
+### 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Na1ky&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Na1ky&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Na1ky&show_icons=true&theme=radical&hide_rank=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Na1ky&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Na1ky&theme=radical" alt="GitHub Streak" />
+</p>
+
+<details>
+<summary>🏆 Trophies</summary>
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=Na1ky&theme=radical&no-frame=true" alt="My Trophies" />
+</p>
+</details>
 
 ---
 
-## 🏆 My Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Na1ky&theme=radical" alt="My Trophies" />
-</p>
+<p align="center"><i>Grazie per essere passato di qui — se vuoi parlare di un progetto, scrivimi! 🚀</i></p>
 
 ---
-
 ## 👀 Visitor Count
 
 <p align="center">
